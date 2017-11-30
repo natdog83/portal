@@ -1,0 +1,51 @@
+BEGIN:VCALENDAR
+PRODID:-//Google Inc//Google Calendar 70.9054//EN
+VERSION:2.0
+CALSCALE:GREGORIAN
+METHOD:REQUEST
+BEGIN:VEVENT
+DTSTART:20170919T180000Z
+DTEND:20170919T210000Z
+DTSTAMP:20170912T171157Z
+ORGANIZER;CN=Nathan McCusker:mailto:nmccusker@angryhorsebrewing.com
+UID:hpebrchbhon3qq4ldkveujnnag@google.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;RSVP=
+ TRUE;CN=nsewell@angryhorsebrewing.com;X-NUM-GUESTS=0:mailto:nsewell@angryho
+ rsebrewing.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;RSVP=
+ TRUE;CN=jmccusker@angryhorsebrewing.com;X-NUM-GUESTS=0:mailto:jmccusker@ang
+ ryhorsebrewing.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;RSVP=
+ TRUE;CN=ntellez@angryhorsebrewing.com;X-NUM-GUESTS=0:mailto:ntellez@angryho
+ rsebrewing.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;RSVP=TRUE
+ ;CN=Nathan McCusker;X-NUM-GUESTS=0:mailto:nmccusker@angryhorsebrewing.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;RSVP=
+ TRUE;CN=imaziuk@angryhorsebrewing.com;X-NUM-GUESTS=0:mailto:imaziuk@angryho
+ rsebrewing.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;RSVP=
+ TRUE;CN=ylopez@angryhorsebrewing.com;X-NUM-GUESTS=0:mailto:ylopez@angryhors
+ ebrewing.com
+CREATED:20170912T170739Z
+DESCRIPTION:Hey Guys\,\n\nI just wanted to send this over if you want to an
+ d can attend.  The agenda is below.\n\nWhat's on the agenda? \nIntroduction
+  of new brewery members \nUpdates on Independent Beer narrative & Guild eff
+ orts\nOverview of Board roles up for election in November\nGuild Event Re-C
+ aps \nOverview of Enthusiast Program & 2018 Goals \nL.A. Beer & Food Fest 2
+ 018 - SIGN UP DETAILS \nABC Reminders - Festivals\, Collaboration Brews\, P
+ rivate Label\, and Contract Brewing\nIntroduction of proposed bylaw amendme
+ nts \n\n-::~:~::~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~
+ :~:~:~:~:~:~::~:~::-\nPlease do not edit this section of the description.\n
+ \nView your event at https://www.google.com/calendar/event?action=VIEW&eid=
+ aHBlYnJjaGJob24zcXE0bGRrdmV1am5uYWcgeWxvcGV6QGFuZ3J5aG9yc2VicmV3aW5nLmNvbQ&
+ tok=MzEjbm1jY3Vza2VyQGFuZ3J5aG9yc2VicmV3aW5nLmNvbWE0Zjk0MThmYmU3NDY4N2FiYTU
+ 0ODk5YzZjMjBiZDk2YTI4ZGZmOGM&ctz=America/Los_Angeles&hl=en.\n-::~:~::~:~:~:
+ ~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~::~:~::-
+LAST-MODIFIED:20170912T171157Z
+LOCATION:Iron Triangle\, 1581 Industrial St\, Los Angeles\, CA 90021\, USA
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:REMINDER: Guild Meeting is 1 Week Away on 9/19!
+TRANSP:OPAQUE
+END:VEVENT
+END:VCALENDAR
